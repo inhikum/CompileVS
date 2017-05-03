@@ -1,0 +1,14 @@
+-Continuous integration tool 
+
+
+- Install Jenkins 
+- go to browser and type ; localhost:8080 (make sure all other services using port 8080 are closed else page won't be accessible
+-configure no plugins or default if stuck , restart service
+
+
+3 ways to install - .mis , or war file in Tomcat (container) , or (war in internally in jenkins) jetti server
+
+
+
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe 
